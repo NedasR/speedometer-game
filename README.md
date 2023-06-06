@@ -1,6 +1,6 @@
 # speedmeter-game
 
-![speedometer](https://github.com/NedasR/speedmeter-game/assets/129998724/b561822a-a8f3-495e-ab92-27afe438638f)
+![SpeeD](https://github.com/NedasR/speedmeter-game/assets/129998724/228e7c37-720a-41d3-9d2d-3c723c04b0ba)
 
 i made this speedometer since i thought it might be a cool thing to make
 
